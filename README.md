@@ -3,7 +3,7 @@
 # Simple React - Redux application
 - Simple usage of the redux for data management
 
-# Appp functionalities
+# App functionalities
 ## Counter to control 
 - The increament value of the couter by 5
 - The decrement value of the couter by 1
